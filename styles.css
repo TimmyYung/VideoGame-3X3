@@ -132,3 +132,24 @@ header p {
         font-size: 0.9rem;
     }
 }
+
+.other-3x3 {
+    text-align: center;
+    margin-top: 1.2rem;
+    font-size: 1.03rem;
+    color: var(--nord4);
+    opacity: 0.85;
+    letter-spacing: 0.01em;
+    font-weight: 400;
+}
+.other-3x3 a {
+    color: var(--nord7);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--nord7);
+    transition: color 0.2s, border-bottom-color 0.2s;
+}
+.other-3x3 a:hover {
+    color: var(--nord8);
+    border-bottom-color: var(--nord8);
+}
+
