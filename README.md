@@ -1,4 +1,4 @@
-# VideoGame-3X3
+# [VideoGame-3X3](https://timmyyung.github.io/VideoGame-3X3/)
 **Video Game 3x3** lets you create and share a personalized grid of your top 9 favorite video games, uses cover art powered by the RAWG API.
 
 ## Features
